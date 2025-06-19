@@ -4,7 +4,9 @@ Chú ý:
    ![image](https://github.com/user-attachments/assets/539073d9-9773-44fa-8865-15f38ff24dae)
 
 ----> CHECKERBOARD = (số hàng - 1, số cột - 1)
-3) Không đổi thứ tự, cấu trúc cây dữ liệu để code chạy được, ổn định.
+
+2) Không đổi thứ tự, cấu trúc cây dữ liệu để code chạy được, ổn định.
+
 
 
 ------------------------------------------------------
